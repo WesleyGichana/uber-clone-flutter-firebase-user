@@ -1,6 +1,9 @@
-# Uber Clone Using Flutter for user
+# Taxi App
+User Driver App
 
-A uber clone using flutter for user.
+# Uber Clone Using Flutter and firebase for user
+
+A uber clone using flutter and firebase for user.
 
 ## Getting Started
 
