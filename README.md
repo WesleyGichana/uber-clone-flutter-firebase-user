@@ -1,6 +1,6 @@
-# Uber Clone Using Flutter
+# Uber Clone Using Flutter user
 
-A uber clone using flutter.
+A uber clone using flutter user.
 
 ## Getting Started
 
