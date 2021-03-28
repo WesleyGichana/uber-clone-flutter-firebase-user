@@ -1,6 +1,6 @@
-# naxiuser
+# Uber Clone Using Flutter
 
-A new Flutter project.
+A uber clone using flutter.
 
 ## Getting Started
 
